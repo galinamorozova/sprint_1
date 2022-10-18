@@ -5,7 +5,7 @@
   "source": "./index.html",
   "scripts": {
     "start": "parcel ./index.html -p 3000",
-    "build": "parcel build ./netlify.toml",
+    "build": "parcel build",
     "watch": "parcel watch"
   },
   "author": "",
